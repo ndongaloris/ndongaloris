@@ -1,4 +1,4 @@
-#Loris Jared Ndonga
+# Loris Jared Ndonga
 
 - 👋 Hi, I’m Jared
 - 👀 I’m interested in anime, basketball, dance and coding
@@ -18,6 +18,13 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
+### 📊 Stats
+
+![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongaloris&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!---
