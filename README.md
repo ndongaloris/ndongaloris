@@ -17,9 +17,10 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/python.png?raw=true" height="60" width="60">
 <br /> -->
 <div align="center">
-<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/python.png?raw=true" height="60" width="60">
+ <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/react.png?raw=true" height="60" width="60">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="80" width="80">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/sass.png?raw=true" height="60" width="60">
