@@ -18,6 +18,28 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<div align="center">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/python.png?raw=true" height="60" width="60">
+  <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/react.png?raw=true" height="60" width="60">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="80" width="80">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/sass.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br />
+<br />
+
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/terminal.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/vs.png?raw=true" height="60" width="60">
+
+</div>
+<br />
+<br />
+
 
 #
 ### 📊 Stats
