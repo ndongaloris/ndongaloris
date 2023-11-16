@@ -7,7 +7,7 @@
 - 📫 ndongajared@gmail.com
 
 ### 🧰 Languages and Tools
-
+<!---
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -17,7 +17,7 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<br /> -->
 <div align="center">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/python.png?raw=true" height="60" width="60">
   <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/react.png?raw=true" height="60" width="60">
