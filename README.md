@@ -5,6 +5,7 @@
 - 🌱 I’m currently improving my programming skills with Javascript, python, and C#
 - 💞️ I’m looking to collaborate on meaningful projects
 - 📫 ndongajared@gmail.com
+
 <p align="left">
   <a href="https://github.com/ndongaloris?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ndongaloris?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
