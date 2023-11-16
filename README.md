@@ -9,6 +9,8 @@
 ### 🧰 Languages and Tools
 
 
+<br/>
+<br/>
 <div align="left">
 <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,6 +25,8 @@
 <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
+<br/>
+<br/>
 
 ### 📊 Stats
 
