@@ -1,3 +1,5 @@
+*Loris Jared Ndonga*
+
 - 👋 Hi, I’m Jared
 - 👀 I’m interested in anime, basketball, dance and coding
 - 🌱 I’m currently improving my programming skills with Javascript, python, and C#
