@@ -20,9 +20,8 @@
 <img alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
-#
-<br />
-<br />
+
+
 ### 📊 Stats
 
 ![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongaloris&show_icons=true&theme=transparent)
