@@ -22,7 +22,7 @@
 #
 ### 📊 Stats
 
-![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongaloris&show_icons=true&theme=gruvbox)
+![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongaloris&show_icons=true&theme=transparent)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
