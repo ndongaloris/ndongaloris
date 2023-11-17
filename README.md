@@ -1,6 +1,6 @@
 # Loris Jared Ndonga
 
-- 👋 Hi, I’m Jared
+- 👋 Greetings, I’m Jared
 - 👀 I’m interested in anime, basketball, dance and coding
 - 🌱 I’m currently improving my programming skills with Javascript, python, and C#
 - 💞️ I’m looking to collaborate on meaningful projects
