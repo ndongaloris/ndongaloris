@@ -14,6 +14,16 @@
 </p>
 
 ---
+### 🛠️ Projects
+**Handcrafted Haven** – E-commerce Web App  
+- Built with React, Tailwind CSS, and Firebase  
+- Implemented cart functionality, user authentication, and responsive design  
+- Deployed via Netlify with CI/CD pipeline
+
+**Portfolio Website** – Personal Showcase  
+- Designed and deployed a responsive portfolio using Next.js and Tailwind CSS  
+- Integrated contact form and GitHub project previews
+---
 
 ## 🧰 Languages and Tools
 
