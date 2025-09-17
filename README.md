@@ -1,28 +1,38 @@
-# Loris Jared Ndonga
+# 👋 Hey there, I'm Loris Jared Ndonga
 
-- 👋 Greetings, I’m Jared
-- 👀 I’m interested in anime, basketball, dance and coding
-- 🌱 I’m currently improving my programming skills with Javascript, python, and C#
-- 💞️ I’m looking to collaborate on meaningful projects
-- 📫 ndongajared@gmail.com
+Welcome to my digital playground! I'm a developer who blends creativity with code, and I'm always chasing the next challenge—whether it's building sleek UIs, architecting powerful backends, or just vibing to anime and basketball.
 
-<p align="left">
-  <a href="https://github.com/ndongaloris?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ndongaloris?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ndongaloris?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ndongaloris?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+## 💡 About Me
+- 🎯 Passionate about crafting impactful digital experiences  
+- 🧠 Constantly learning and leveling up in **JavaScript**, **Python**, **C#**, and more  
+- 🤝 Open to collaborations that push boundaries  
+- 📬 Reach me at **ndongajared@gmail.com**
 
----
-### 🛠️ Projects
-**Handcrafted Haven** – E-commerce Web App  
-- Built with React, Tailwind CSS, and Firebase  
-- Implemented cart functionality, user authentication, and responsive design  
-- Deployed via Netlify with CI/CD pipeline
+## 🌐 Featured Project: Portfolio Website
+Built with **React** and **Tailwind CSS**, this site is my personal showcase:
+- 🖼️ GitHub project previews  
+- ✉️ Integrated contact form  
+- 📱 Mobile-first responsive design  
+- 🚀 Deployed and optimized for performance
 
-**Portfolio Website** – Personal Showcase  
-- Designed and deployed a responsive portfolio using Next.js and Tailwind CSS  
-- Integrated contact form and GitHub project previews
+## 🧰 Tech Stack & Tools
+
+| Frontend        | Backend         | Languages        | Databases       | DevOps & Tools     |
+|----------------|-----------------|------------------|-----------------|--------------------|
+| React, React Native, HTML, CSS, Tailwind | Flask, .NET, Firebase | JavaScript, Python, C# | MongoDB, PostgreSQL, SQLite | Git, GitHub, Netlify, Vercel |
+
+## 🎯 What I’m Working On
+- Building cross-platform apps with **React Native**
+- Exploring backend APIs with **Flask** and **.NET**
+- Designing clean, scalable architectures
+- Diving deeper into database optimization and cloud deployment
+
+## 🎨 Interests Beyond Code
+- 🏀 Basketball fanatic  
+- 💃 Dance enthusiast  
+- 📺 Anime binge-watcher  
+- 🎧 Music explorer  
+
 ---
 
 ## 🧰 Languages and Tools
@@ -45,6 +55,10 @@
 ![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongaloris&show_icons=true&theme=transparent)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+---
+
+Let me know if you'd like to add GitHub stats, contribution streaks, or a live link to your portfolio. We can even embed a “Now Watching” anime badge or a “Tech I'm Loving” section. Let's make it unforgettable.
 
 #
 <!---
