@@ -19,7 +19,7 @@ Built with **React** and **Tailwind CSS**, this site is my personal showcase:
 
 | Frontend        | Backend         | Languages        | Databases       | DevOps & Tools     |
 |----------------|-----------------|------------------|-----------------|--------------------|
-| React, React Native, HTML, CSS, Tailwind | Flask, .NET, Firebase | JavaScript, Python, C# | MongoDB, PostgreSQL, SQLite | Git, GitHub, Netlify, Vercel |
+| React, React Native, HTML, CSS, Tailwind | Flask, .NET, Nodejs | JavaScript, Python, C# | MongoDB, PostgreSQL, SQL | Git, GitHub, Netlify, Vercel |
 
 ## 🎯 What I’m Working On
 - Building cross-platform apps with **React Native**
