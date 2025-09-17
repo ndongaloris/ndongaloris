@@ -8,12 +8,12 @@ Welcome to my digital playground! I'm a developer who blends creativity with cod
 - 🤝 Open to collaborations that push boundaries  
 - 📬 Reach me at **ndongajared@gmail.com**
 
-## 🌐 Featured Project: Portfolio Website
-Built with **React** and **Tailwind CSS**, this site is my personal showcase:
-- 🖼️ GitHub project previews  
+## 🌐 Featured Project: [My Portfolio Website](https://portfolio-nu-three-38.vercel.app/)  
+Built with **React**, **TypeScript** and **Tailwind CSS**, deployed via **Vercel**  
+- 🖼️ Showcases my projects and skills  
 - ✉️ Integrated contact form  
-- 📱 Mobile-first responsive design  
-- 🚀 Deployed and optimized for performance
+- 📱 Fully responsive design  
+- 🎯 Highlights my journey and tech stack 
 
 ## 🧰 Tech Stack & Tools
 
