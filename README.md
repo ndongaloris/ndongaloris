@@ -41,12 +41,3 @@ Built with **React**, **TypeScript** and **Tailwind CSS**, deployed via **Vercel
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
----
-
-Let me know if you'd like to add GitHub stats, contribution streaks, or a live link to your portfolio. We can even embed a “Now Watching” anime badge or a “Tech I'm Loving” section. Let's make it unforgettable.
-
-#
-<!---
-ndongaloris/ndongaloris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
