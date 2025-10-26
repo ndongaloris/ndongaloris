@@ -8,7 +8,7 @@ Welcome to my digital playground! I'm a developer who blends creativity with cod
 - 🤝 Open to collaborations that push boundaries  
 - 📬 Reach me at **ndongajared@gmail.com**
 
-## 🌐 Featured Project: [My Portfolio Website](https://portfolio-nu-three-38.vercel.app/)  
+## 🌐 Featured Project: [My Portfolio Website](https://portfolio-website-mekq.vercel.app/)  
 Built with **React**, **TypeScript** and **Tailwind CSS**, deployed via **Vercel**  
 - 🖼️ Showcases my projects and skills  
 - ✉️ Integrated contact form  
